@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>k90-201712270359.kml</name>
+    <description>Area: 33,719 m²;
+Perimeter: 821.16 m;
+Date: Wed Dec 27 15:59:45 GMT+05:30 2017</description>
+    <Placemark>
+      <name>Polygon-0</name>
+      <description>33,719 m²; 821.16 m</description>
+      <shape>0</shape>
+      <Style>
+        <LineStyle>
+          <width>2</width>
+          <color>ff4444f4</color>
+        </LineStyle>
+        <PolyStyle>
+          <color>7ff39621</color>
+        </PolyStyle>
+      </Style>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>73.79626169800758,20.264373016787196,1
+73.79529643803835,20.264541601579403,1
+73.79378132522106,20.26463721675329,1
+73.79375718533993,20.263648980765304,1
+73.79481665790081,20.262712950041806,1
+73.79514455795287,20.263601801932502,1
+73.7959723547101,20.26346309608096,1
+73.79627712070942,20.26436672630634,1
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
