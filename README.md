@@ -51,7 +51,19 @@ Difference Wetness Index) or crop water content. The darker the color the more a
 
 <img src="content/FarmAndCropAnalysisNDWI.png"></img> <br>
 
-<b> Note:</b> To view the NDWI (Crop water) check the [ndwi_timeseries.gif](https://github.com/Dimplejain23/Crop-Analysis-using-Remote-Sensing-Data/blob/main/content/ndwi_timeseries.gif) 
+<b> Note:</b> To view the NDWI (Crop water) check the [ndwi_timeseries.gif](https://github.com/Dimplejain23/Crop-Analysis-using-Remote-Sensing-Data/blob/main/content/ndwi_timeseries.gif) <br>
+
+## Farm & Crop Analysis using Remote Sensing for Vineyard Management
+<img src="ndwi_chart.png"></img> <br>
+
+The above time series line chart shows dip between 20th Oct 2019 to 3rd Nov 2019 in crop moisture values which resembles water stress in plants for both
+plots. This might also be due to water not supplied for given dates highlighted.
+
+### Plant Population
+
+Plant population count analysis needs high resolution satellite or drone imagery to detect and count number of plants in field hence this analysis was not
+carried out.
+
 
 
 
